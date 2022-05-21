@@ -1,5 +1,5 @@
 # CSS RegExp
-List of Regular Expressions to detect CSS pattern.
+List of Regular Expressions to detect CSS patterns.
 
 ## Example
 ```typescript
